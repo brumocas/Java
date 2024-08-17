@@ -72,7 +72,7 @@ Ensure you have the following software installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/brumocas/Java_Projects.git
+   git clone https://github.com/brumocas/Java.git
    ```
 
 2. Navigate to the project directory:
