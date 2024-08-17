@@ -77,7 +77,7 @@ Ensure you have the following software installed:
 
 2. Navigate to the project directory:
    ```sh
-   cd Java_Projects
+   cd Java
    ```
 
 ## Usage
